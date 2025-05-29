@@ -22,6 +22,8 @@ lodash: 1.2.1
 
 Run `index.html` by web server (such as Nginx).
 
+### Visit https://tank1990-html5.vercel.app/
+
 ---
 
 &copy; 1989 - 2025 @codeguru, All rights reserved.
