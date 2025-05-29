@@ -11,7 +11,7 @@ Old famous NES game clone of Tank1990 (Battle City) by `HTML5 Canvas`
 ## Prerequisites
 
 ```yaml
-html5
+html: 5
 coffeescript: 1.6.2
 jquery: 1.9.1
 kinetic: 4.5.1
@@ -21,13 +21,6 @@ lodash: 1.2.1
 ## Getting Started
 
 Run `index.html` by web server (such as Nginx).
-
-## Test
-
-```bash
-npm install
-npm run test
-```
 
 ---
 
